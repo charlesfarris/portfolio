@@ -1,11 +1,6 @@
 # Portfolio
 *This repository contains examples of my code.*
 
-## Computer Networks: Wesleyan University
-  ### Coded client and server interactions and studied internet security protocols
-    - ChatServer.py
-    - ChatClient.py
-
 ## Farming Journey: In Progress
   ### A farming game where students learn about plants, animals, and sustainability
     - PlayerController.cs
@@ -20,3 +15,8 @@
   ### An obstacle course adventure game to introduce students to prepositions of place
     - ColorChange.lua
     - BridgeActivationButton.lua
+
+## Computer Networks: Wesleyan University
+  ### Coded client and server interactions and studied internet security protocols
+    - ChatServer.py
+    - ChatClient.py
