@@ -8,6 +8,7 @@
 
 ## Project Planet Discovery: https://simmer.io/@seefarris/project-planet-discovery
   ### A space exploration game that teaches students about the planets in our solar system.
+  ### Playable on a computer browser.
     - HeightTracker.cs
     - GameManager.cs
 
