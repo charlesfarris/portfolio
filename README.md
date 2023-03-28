@@ -1,3 +1,5 @@
+https://www.linkedin.com/in/charles-farris0
+
 # Portfolio
 *This repository contains examples of my code.*
 
