@@ -8,6 +8,9 @@ https://www.linkedin.com/in/charles-farris0
     - PlayerController.cs
     - Follow.cs
 
+## Loop Soup: https://seefarstudios.itch.io/loop-soup-01
+  ### Spell out words before 10 letters stick to the side of the bowl
+  
 ## Project Planet Discovery: https://simmer.io/@seefarris/project-planet-discovery
   ### A space exploration game that teaches students about the planets in our solar system.
   ### Playable on a computer browser.
