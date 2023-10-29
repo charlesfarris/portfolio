@@ -1,5 +1,3 @@
-https://www.linkedin.com/in/charles-farris0
-
 # Portfolio
 *This repository contains examples of my code.*
 
@@ -30,3 +28,5 @@ https://www.linkedin.com/in/charles-farris0
   ### Coded client and server interactions and studied internet security protocols
     - ChatServer.py
     - ChatClient.py
+
+https://www.linkedin.com/in/cqj/
