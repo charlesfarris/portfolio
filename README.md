@@ -1,5 +1,5 @@
 # Portfolio
-*This repository contains examples of my code.*
+*This repository contains examples of my code. Also working on Cat Mishceif Simulator, Magic Fishing, and Little Civic Town.*
 
 ## Farming Journey: In Progress
   ### A farming game where students learn about plants, animals, and sustainability
