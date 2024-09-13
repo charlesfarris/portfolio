@@ -1,4 +1,4 @@
-Algorithms in various languages
+Algorithms in various languages by Charles Jones
 
 """
 Python
@@ -14,8 +14,7 @@ def print_scroll(output):
         sys.stdout.write(char)
         sys.stdout.flush()
         sleep(.02) #seconds
-
-# Inspired by J C        
+ 
 # Define a function to convert a number from one base to another
 def base_conversion(number, from_base, to_base):
     # First, convert the number to base 10
@@ -326,39 +325,39 @@ public class Algorithms
 	public static void merge(int[] a, int[] l, int[] r, int left, int right) 
 	{
 		// variable to start at beginning left and right l,r 0 - half array index
-    	int i = 0, j = 0;
+    		int i = 0, j = 0;
 		// variable to move through full length array
 		int k = 0;
 
 		// loop through array moving lower half of elements to l  and upper to r
-    	while (i < left && j < right) 
+    		while (i < left && j < right) 
 		{
 			// if  statement to decide which half the element goes on
-        	if (l[i] <= r[j]) 
+        		if (l[i] <= r[j]) 
 			{
 				// l length is 1/2 a
 				// place element from one array into another then step +1  with  both iterative variables 
-            	a[k++] = l[i++];
-        	}
-        	else 
+            			a[k++] = l[i++];
+        		}
+        		else 
 			{
 				//  r length is 1/2 a or +1 if odd length
-            	a[k++] = r[j++];
-        	}
-    	}
+            			a[k++] = r[j++];
+        		}
+    		}
 
 		// loop to place remaining elements if they go on the lower l half
-    	while (i < left) 
+    		while (i < left) 
 		{
 			// statement to add element to half array and increase iterators
-        	a[k++] = l[i++];
-    	}
-		// looping place remaining elements if in upper half r 
-    	while (j < right) 
+        		a[k++] = l[i++];
+    		}
+			// looping place remaining elements if in upper half r 
+    		while (j < right) 
 		{
 			// add element to half array and increase iterators
-        	a[k++] = r[j++];
-    	}
+        		a[k++] = r[j++];
+    		}
 	}
 
 	// Sorting algorithm - method
