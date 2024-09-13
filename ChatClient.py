@@ -4,7 +4,7 @@ COMP 332, Fall 2018
 Chat client
 
 Example usage:
-    Run two clients and one server
+    Run one Server and multiple Client instances to test
 
 '''
 
