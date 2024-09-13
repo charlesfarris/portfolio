@@ -4,7 +4,7 @@ COMP 332, Fall 2018
 Chat client
 
 Example usage:
-    python3 chat_client.py <chat_host> <chat_port>
+    Run two clients and one server
 
 '''
 
