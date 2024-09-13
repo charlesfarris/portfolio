@@ -4,7 +4,7 @@ COMP 332, Fall 2018
 Chat server
 
 Usage:
-    python3 chat_server.py <host> <port>
+   Run one Server and multiple Client instances to test
 '''
 
 # Import classes
